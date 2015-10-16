@@ -1,0 +1,179 @@
+**************   State 0  *************
+Action :: 
+int :: s6
+void :: s7
+Goto :: 
+D :: 3
+Ts :: 5
+P :: 1
+Vd :: 4
+Fn :: 8
+L :: 2
+
+
+**************   State 1  *************
+Action :: 
+$ :: accept
+Goto :: 
+
+
+**************   State 2  *************
+Action :: 
+$ :: r1
+Goto :: 
+D :: 9
+
+
+**************   State 3  *************
+Action :: 
+int :: r3
+$ :: r3
+void :: r3
+Goto :: 
+
+
+**************   State 4  *************
+Action :: 
+int :: r4
+$ :: r4
+void :: r4
+Goto :: 
+
+
+**************   State 5  *************
+Action :: 
+id :: s10
+main :: s11
+Goto :: 
+
+
+**************   State 6  *************
+Action :: 
+id :: r8
+main :: r8
+Goto :: 
+
+
+**************   State 7  *************
+Action :: 
+id :: r9
+main :: r9
+Goto :: 
+
+
+**************   State 8  *************
+Action :: 
+int :: r5
+$ :: r5
+void :: r5
+Goto :: 
+
+
+**************   State 9  *************
+Action :: 
+int :: r2
+$ :: r2
+void :: r2
+Goto :: 
+
+
+**************   State 10  *************
+Action :: 
+; :: s12
+( :: s14
+[ :: s13
+Goto :: 
+
+
+**************   State 11  *************
+Action :: 
+( :: s15
+Goto :: 
+
+
+**************   State 12  *************
+Action :: 
+int :: r6
+$ :: r6
+void :: r6
+Goto :: 
+
+
+**************   State 13  *************
+Action :: 
+num :: s16
+Goto :: 
+
+
+**************   State 14  *************
+Action :: 
+Goto :: 
+Ps :: 17
+
+
+**************   State 15  *************
+Action :: 
+Goto :: 
+Ps :: 18
+
+
+**************   State 16  *************
+Action :: 
+] :: s19
+Goto :: 
+
+
+**************   State 17  *************
+Action :: 
+) :: s20
+Goto :: 
+
+
+**************   State 18  *************
+Action :: 
+) :: s21
+Goto :: 
+
+
+**************   State 19  *************
+Action :: 
+; :: s22
+Goto :: 
+
+
+**************   State 20  *************
+Action :: 
+Goto :: 
+Cs :: 23
+
+
+**************   State 21  *************
+Action :: 
+Goto :: 
+Cs :: 24
+
+
+**************   State 22  *************
+Action :: 
+int :: r7
+$ :: r7
+void :: r7
+Goto :: 
+
+
+**************   State 23  *************
+Action :: 
+int :: r10
+$ :: r10
+void :: r10
+Goto :: 
+
+
+**************   State 24  *************
+Action :: 
+int :: r11
+$ :: r11
+void :: r11
+Goto :: 
+
+
